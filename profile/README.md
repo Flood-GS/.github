@@ -1,4 +1,4 @@
-## 👋 Olá, nós somos a FLOOD🏠
+## 👋 Olá, nós somos o FLOOD🏠
 
 Somos um grupo do curso de ADS da turma do 1TDSPJ, formado para participar da Global Solutions da FIAP. Nosso projeto é focado no fenômeno das enchentes, alagamentos e inudações, um problema crescente causado pelas mudanças climáticas.
 - O objetivo do nosso site é oferecer suporte às pessoas que enfrentam enchentes, promovendo conscientização sobre as mudanças climáticas. Para isso, disponibilizamos: 
