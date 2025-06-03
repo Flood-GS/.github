@@ -5,8 +5,8 @@ Somos um grupo do curso de ADS da turma do 1TDSPJ, formado para participar da Gl
 - Opção de solicitar ajuda;
 - Informações sobre o problema das enchentes, alagamentos e inundações; 
 - Chatbot para perguntas sobre enchentes; 
-- Um jogo educativo que incentiva o descarte correto do lixo, ajudando a evitar o entupimento dos sistemas de drenagem e, consequentemente, as enchentes.
-- Um quiz educativo de 5 perguntas.
+- Um jogo educativo que incentiva o descarte correto do lixo, ajudando a evitar o entupimento dos sistemas de drenagem e, consequentemente, as enchentes;
+- Um quiz educativo de 5 perguntas;
 - Uma página que monitora o clima atual e responde se choverá ou não.
 
 ------------------------------------------------------------
